@@ -23,34 +23,45 @@
 - 배포 링크: (개인적으로 진행 중)
 - 팀 깃허브 리드미: <a href="https://github.com/codestates-seb/seb45_main_024">바로가기</a><br/>
 
+### 개발 담당 영역
+  - 서비스 유저플로우 다이어그램 작성
+  - 마이페이지 CRUD 기능 전체 담당
+    - 서비스 유저들에게 이력서가 될 수 있는 “프로필” CRUD 기능 구현
+    - 같이 프로젝트를 진행한 유저로부터 받을 수 있는 “동료리뷰” CRUD 기능
+    - 회원정보 UD 기능
 
 </br></br>
 
 ## 개발 환경 및 기술 스택
 
-### 프론트엔드
-
-<h4 align="center">Client</h4>
+<h4 align="center">프론트엔드</h4>
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS.S3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
 <br />
 
-### 커뮤니케이션
-<div align=left>
-<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+<h4 align="center">커뮤니케이션</h4>
+<div align="center">
+
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 </div>
 
-
 <br />
+
+
+
+## 시연
+
+공사중
+
 
 ## 기타 문서
 
