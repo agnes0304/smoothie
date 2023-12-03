@@ -1,3 +1,4 @@
+# SMOOTHIE | 스무디
 <br />
 
 <div  align="center">
@@ -7,52 +8,47 @@
 <br />
 
 
-🚧아직 작성 중입니다!
+## "스무디"는요,
 
-
-# SMOOTHIE
-
-안녕하세요, 스무디 마이페이지 담당 프론트엔드 엔지니어 최지우입니다.
-
-
-스무디는 프로그래밍을 이제 막 시작한, 뉴비들을 위한 프로젝트 플랫폼입니다.<br/>
+프로그래밍을 이제 막 시작한, 뉴비들을 위한 프로젝트 플랫폼입니다.<br/>
 자신이 참여하고픈 프로젝트를 어필하고, 직접 기획한 프로젝트에 팀원을 모집할 수 있는 서비스이며, <br/>
 사이트 내에서 서로에게 남긴 코멘트가 레퍼런스가 되어 자신과 잘 맞는 팀원을 모집할 수 있도록 기획했습니다.
 
-<br />
-
-🗓 프로젝트 기간: 2023.08.24 - 2023.09.19<br/>
-🔗 배포 링크: <a href="http://main-project-024-bucket.s3-website.ap-northeast-2.amazonaws.com/" target="_blank">SMOOTHIE</a><br/>
-🗒 팀 깃허브 리드미 <a href="https://github.com/codestates-seb/seb45_main_024">바로가기</a><br/>
-
-<br />
-
-# Features
-
-# Demo
+</br></br>
 
 
 
+## 프로젝트 정보
+- 👤 팀 / 2023.08.24 - 2023.09.19 (약1개월)
+- 배포 링크: (개인적으로 진행 중)
+- 팀 깃허브 리드미: <a href="https://github.com/codestates-seb/seb45_main_024">바로가기</a><br/>
+
+
+</br></br>
 
 ## 개발 환경 및 기술 스택
+
+### 프론트엔드
+
+<h4 align="center">Client</h4>
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+<br />
+
 ### 커뮤니케이션
 <div align=left>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 </div>
-<br />
 
-### 프론트엔드
-<div align=left>
-<img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=Html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Css3-1572B6?style=flat&logo=Css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-<img src="https://img.shields.io/badge/Toolkit-764ABC?style=flat&logo=Redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white" />
-<img src="https://img.shields.io/badge/Aws-232F3E?style=flat&logo=Amazonaws&logoColor=white" />
-</div>
 
 <br />
 
