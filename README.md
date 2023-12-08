@@ -1,14 +1,15 @@
 # SMOOTHIE | 스무디
 <br />
+🎞️ <a href="https://github.com/agnes0304/smoothie?tab=readme-ov-file#%EF%B8%8F-%EB%8D%B0%EB%AA%A8-%EC%98%81%EC%83%81-%EB%AA%A8%EC%9D%8C">데모영상 바로가기</a>
 
 <div  align="center">
   <img width="100%" src="https://github.com/codestates-seb/seb45_main_024/assets/85465266/4031b821-ac2e-403f-aa74-e293b092703b" alt="stackoverflow">
 </div>
 
-<br />
 
-데모영상 바로가기
 
+
+<br/>
 
 ## 👋🏻"스무디"는요,
 
@@ -54,9 +55,7 @@
 
 </div>
 
-<br />
-
-
+</br></br>
 
 ## 🎞️ 데모 영상 모음
 
@@ -95,7 +94,9 @@
 
 - 자신이 작성한 카드를 삭제할 수 있음
 
-<br />
+
+</br>
+</br></br>
 
 ## 🛠️ 수정 사항 
 
@@ -128,6 +129,7 @@
 
 <br />
 
+</br></br>
 
 
 ## 📑 기타 문서
