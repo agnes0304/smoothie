@@ -34,7 +34,7 @@
 
 ## 개발 환경 및 기술 스택
 
-<h4 align="center">프론트엔드</h4>
+<h4 align="center">언어 및 프레임워크</h4>
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -46,7 +46,16 @@
 
 <br />
 
-<h4 align="center">커뮤니케이션</h4>
+<h4 align="center">배포</h4>
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS.S3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+<br />
+
+<h4 align="center">협업 환경</h4>
 <div align="center">
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
